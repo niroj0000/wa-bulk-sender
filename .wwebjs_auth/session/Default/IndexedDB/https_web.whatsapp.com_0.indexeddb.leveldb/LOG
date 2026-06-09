@@ -1,0 +1,53 @@
+2026/06/09-21:17:36.005 6190 Creating DB C:\Users\Niroj\Desktop\wa-bulk-sender\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb since it was missing.
+2026/06/09-21:17:36.020 6190 Reusing MANIFEST C:\Users\Niroj\Desktop\wa-bulk-sender\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/06/09-21:17:56.650 2e24 Level-0 table #5: started
+2026/06/09-21:17:56.678 2e24 Level-0 table #5: 1143072 bytes OK
+2026/06/09-21:17:56.681 2e24 Delete type=0 #3
+2026/06/09-21:18:00.216 6190 Level-0 table #7: started
+2026/06/09-21:18:00.249 6190 Level-0 table #7: 1028005 bytes OK
+2026/06/09-21:18:00.252 6190 Delete type=0 #4
+2026/06/09-21:18:00.257 1c64 Compacting 1@1 + 1@2 files
+2026/06/09-21:18:00.308 1c64 Generated table #8@1: 25307 keys, 1033396 bytes
+2026/06/09-21:18:00.308 1c64 Compacted 1@1 + 1@2 files => 1033396 bytes
+2026/06/09-21:18:00.310 1c64 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/06/09-21:18:00.310 1c64 Delete type=2 #5
+2026/06/09-21:18:00.310 1c64 Delete type=2 #7
+2026/06/09-21:18:00.842 1c64 Level-0 table #10: started
+2026/06/09-21:18:00.871 1c64 Level-0 table #10: 1026509 bytes OK
+2026/06/09-21:18:00.873 1c64 Delete type=0 #6
+2026/06/09-21:18:00.876 1c64 Compacting 1@1 + 1@2 files
+2026/06/09-21:18:00.941 1c64 Generated table #11@1: 41250 keys, 1651124 bytes
+2026/06/09-21:18:00.941 1c64 Compacted 1@1 + 1@2 files => 1651124 bytes
+2026/06/09-21:18:00.943 1c64 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/06/09-21:18:00.943 1c64 Delete type=2 #8
+2026/06/09-21:18:00.943 1c64 Delete type=2 #10
+2026/06/09-21:18:01.346 1c64 Level-0 table #13: started
+2026/06/09-21:18:01.377 1c64 Level-0 table #13: 1073748 bytes OK
+2026/06/09-21:18:01.379 1c64 Delete type=0 #9
+2026/06/09-21:18:01.430 1c64 Compacting 1@1 + 1@2 files
+2026/06/09-21:18:01.529 1c64 Generated table #14@1: 56534 keys, 2214687 bytes
+2026/06/09-21:18:01.537 1c64 Generated table #15@1: 4072 keys, 144085 bytes
+2026/06/09-21:18:01.537 1c64 Compacted 1@1 + 1@2 files => 2358772 bytes
+2026/06/09-21:18:01.538 1c64 compacted to: files[ 0 0 2 0 0 0 0 ]
+2026/06/09-21:18:01.539 1c64 Delete type=2 #11
+2026/06/09-21:18:01.539 1c64 Delete type=2 #13
+2026/06/09-21:18:13.049 1c64 Level-0 table #17: started
+2026/06/09-21:18:13.086 1c64 Level-0 table #17: 974451 bytes OK
+2026/06/09-21:18:13.087 1c64 Delete type=0 #12
+2026/06/09-21:18:13.091 1c64 Compacting 1@1 + 2@2 files
+2026/06/09-21:18:13.161 1c64 Generated table #18@1: 43796 keys, 2032272 bytes
+2026/06/09-21:18:13.161 1c64 Compacted 1@1 + 2@2 files => 2032272 bytes
+2026/06/09-21:18:13.162 1c64 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/06/09-21:18:13.163 1c64 Delete type=2 #14
+2026/06/09-21:18:13.163 1c64 Delete type=2 #15
+2026/06/09-21:18:13.163 1c64 Delete type=2 #17
+2026/06/09-21:18:13.261 1c64 Level-0 table #20: started
+2026/06/09-21:18:13.293 1c64 Level-0 table #20: 1145908 bytes OK
+2026/06/09-21:18:13.296 1c64 Delete type=0 #16
+2026/06/09-21:18:13.351 1c64 Compacting 1@1 + 1@2 files
+2026/06/09-21:18:13.409 1c64 Generated table #21@1: 35612 keys, 2219595 bytes
+2026/06/09-21:18:13.430 1c64 Generated table #22@1: 17308 keys, 637764 bytes
+2026/06/09-21:18:13.430 1c64 Compacted 1@1 + 1@2 files => 2857359 bytes
+2026/06/09-21:18:13.432 1c64 compacted to: files[ 0 0 2 0 0 0 0 ]
+2026/06/09-21:18:13.432 1c64 Delete type=2 #18
+2026/06/09-21:18:13.433 1c64 Delete type=2 #20
